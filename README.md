@@ -6,4 +6,5 @@ Este repositorio contiene una solución en Prolog para eliminar elementos duplic
 eliminar_duplicados([a,b,a,c,b,a,b,c], Resultado).
 Ejecución esperada: [a,b,a,c,b,a,b,c] → [a,b,c]
 
-Video de ejecución del programa: 
+Link de video de ejecución del programa: 
+https://drive.google.com/file/d/1DINFqSCqP8Jl1c64ClXsSGz8ghv3GOPa/view?usp=drivesdk
